@@ -33,4 +33,18 @@
 
 <h3 align="left">Leetcode Badge</h3>
 <img src="https://github.com/user-attachments/assets/26f2a567-738e-46c9-9a24-99a3a861e193" width="100" alt="LeetCode 50 Days Badge"/>
+<br><br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arrawin&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
+![](https://nirzak-streak-stats.vercel.app/?user=arrawin&theme=aura&hide_border=false)<br/><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrawin&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br><br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arrawin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br><br>
+
+
+### ✍️ Motivation for yall!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
