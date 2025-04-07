@@ -32,8 +32,8 @@
 <br><br>
 
 <h3 align="left">Leetcode Badge</h3>
-<img src="https://github.com/user-attachments/assets/26f2a567-738e-46c9-9a24-99a3a861e193" width="100" alt="LeetCode 50 Days Badge"/>
-<br><br>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=arrawin2004&animated=true&theme=dark" alt="LeetCode Badges" />
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arrawin&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
